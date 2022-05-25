@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bA+n9GbOiy20js1QY2Khb1jOpJOLhhJwvoLB2q7+jviycdMtrdqLCVKtJvYiR1rA6en5ZYtliO13Y09C+N5rYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cleme\\Desktop\\Mistkubi\\startCommandPrototyp\\startCommandPrototyp\\startCommandPrototyp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cleme\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\cleme\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
